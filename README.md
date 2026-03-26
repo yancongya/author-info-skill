@@ -1,29 +1,70 @@
-# Author Info Skill
+# 🎯 Author Info Skill
 
 用于存储和检索作者信息的 Agent Skill。
 
-## 安装
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/yancongya/author-info-skill?style=flat)](https://github.com/yancongya/author-info-skill/stargazers)
 
-```bash
-git clone https://github.com/yancongya/author-info-skill.git
+---
+
+## 📖 使用指南
+
+### 1. Fork 项目
+
+点击 [Fork](https://github.com/yancongya/author-info-skill/fork) 将项目 fork 到你的 GitHub 仓库。
+
+### 2. 修改作者信息
+
+编辑 `skills/author-info/data/` 下的文件：
+
+| 文件 | 说明 |
+|------|------|
+| `author.json` | 昵称、简介、邮箱、所在地 |
+| `links.json` | GitHub、B站、小红书、博客等链接 |
+| `donate.json` | 支付宝、微信、爱发电等打赏方式 |
+| `resources/` | 头像、二维码等图片 |
+
+### 3. 安装到 IDE
+
+将修改后的 `skills` 目录复制到 IDE 配置目录：
+
+| IDE | 路径 |
+|-----|------|
+| Cursor | `%APPDATA%/Cursor/skills/` |
+| Claude Code | `%APPDATA%/Claude/skills/` |
+| Windsurf | `%APPDATA%/Windsurf/skills/` |
+
+> 💡 也可以使用 [skills-npm](https://github.com/antfu/skills-npm) 自动链接
+
+### 4. 开始使用
+
+在 IDE 中直接提问：
+- *"获取作者的基本信息"*
+- *"作者的 GitHub 是什么"*
+- *"如何打赏作者"*
+
+---
+
+## 📁 项目结构
+
+```
+skills/author-info/
+├── SKILL.md              # Skill 定义文件
+└── data/
+    ├── author.json       # 基本信息
+    ├── links.json        # 社交链接
+    ├── donate.json       # 打赏方式
+    └── resources/        # 图片资源
 ```
 
-或者使用 Git 子模块：
+---
 
-```bash
-git submodule add https://github.com/yancongya/author-info-skill.git skills
-```
+## 🌐 English Version
 
-## 使用
+[README_EN.md](README_EN.md)
 
-克隆后在 IDE 中直接使用，试试问：
-- **"获取作者的基本信息"**
-- **"作者的GitHub是什么"**
-- **"如何打赏作者"**
+---
 
-## 数据文件
+## 📄 License
 
-- `skills/author-info/data/author.json` - 基本信息
-- `skills/author-info/data/links.json` - 网站链接
-- `skills/author-info/data/donate.json` - 打赏方式
-- `skills/author-info/data/resources/` - 图片资源
+MIT License © 2024 [Tycon](https://github.com/yancongya)
