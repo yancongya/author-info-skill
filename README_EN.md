@@ -5,13 +5,13 @@ Agent Skill for storing and retrieving author information.
 ## Install
 
 ```bash
-git clone https://github.com/oh-my-outher/author-info-skill.git
+git clone https://github.com/yancongya/author-info-skill.git
 ```
 
 Or using Git submodule:
 
 ```bash
-git submodule add https://github.com/oh-my-outher/author-info-skill.git skills
+git submodule add https://github.com/yancongya/author-info-skill.git skills
 ```
 
 ## Usage

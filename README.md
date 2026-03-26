@@ -5,13 +5,13 @@
 ## 安装
 
 ```bash
-git clone https://github.com/oh-my-outher/author-info-skill.git
+git clone https://github.com/yancongya/author-info-skill.git
 ```
 
 或者使用 Git 子模块：
 
 ```bash
-git submodule add https://github.com/oh-my-outher/author-info-skill.git skills
+git submodule add https://github.com/yancongya/author-info-skill.git skills
 ```
 
 ## 使用
