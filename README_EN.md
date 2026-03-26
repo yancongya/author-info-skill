@@ -7,6 +7,27 @@ Agent Skill for storing and retrieving author information.
 
 ---
 
+## 💡 The Problem
+
+In daily development, we often need to deal with author information:
+
+- 📝 Writing README docs requires adding author contact
+- 🌐 Building websites needs author info in navigation
+- 📄 Writing open source project docs needs author bio
+- 💰 Want to show donate/sponsor methods
+
+Manually copying and pasting the same information every time is tedious!
+
+## ✨ The Solution
+
+With this Skill, AI can automatically get your author info:
+
+- Just tell AI *"Here's my author info"* or *"Get author info"*
+- AI will automatically read config from `skills/author-info/data/`
+- No more manual input, saves time!
+
+---
+
 ## 📖 Usage Guide
 
 ### 1. Fork the Project
