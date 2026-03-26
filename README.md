@@ -41,7 +41,7 @@
 | 文件 | 说明 |
 |------|------|
 | `author.json` | 昵称、简介、邮箱、所在地 |
-| `links.json` | GitHub、B站、小红书、博客等链接 |
+| `links.json` | GitHub，B站、小红书、博客等链接 |
 | `donate.json` | 支付宝、微信、爱发电等打赏方式 |
 | `resources/` | 头像、二维码等图片 |
 
@@ -77,6 +77,38 @@ skills/author-info/
     ├── donate.json       # 打赏方式
     └── resources/        # 图片资源
 ```
+
+---
+
+## 👤 作者
+
+<img src="skills/author-info/data/resources/avatar.webp" width="120" height="120" alt="头像">
+
+- **昵称**: 烟囱鸭
+- **简介**: 一个做动画的
+- **邮箱**: 2655283737@qq.com
+- **所在地**: 广州, 中国
+- **GitHub**: [yancongya](https://github.com/yancongya)
+- **小红书**: [烟囱鸭](https://xhslink.com/m/9v4RK5HQzsc)
+- **B站**: [烟囱鸭](https://space.bilibili.com/100881808/)
+
+---
+
+## 💰 打赏
+
+<p align="center">
+  <img src="skills/author-info/data/resources/alipay-qrcode.jpg" width="150" alt="支付宝">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="skills/author-info/data/resources/wechat-qrcode.jpg" width="150" alt="微信">
+</p>
+
+<p align="center">
+  <strong>支付宝</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>微信</strong>
+</p>
+
+<p align="center">
+  <a href="https://ifdian.net/a/tycon">爱发电</a>
+</p>
 
 ---
 

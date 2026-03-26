@@ -80,6 +80,38 @@ skills/author-info/
 
 ---
 
+## 👤 Author
+
+<img src="skills/author-info/data/resources/avatar.webp" width="120" height="120" alt="Avatar">
+
+- **Name**: 烟囱鸭 (Yan Cong Ya)
+- **Bio**: 一个做动画的 (Animation creator)
+- **Email**: 2655283737@qq.com
+- **Location**: 广州, 中国 (Guangzhou, China)
+- **GitHub**: [yancongya](https://github.com/yancongya)
+- **Xiaohongshu**: [烟囱鸭](https://xhslink.com/m/9v4RK5HQzsc)
+- **Bilibili**: [烟囱鸭](https://space.bilibili.com/100881808/)
+
+---
+
+## 💰 Donate
+
+<p align="center">
+  <img src="skills/author-info/data/resources/alipay-qrcode.jpg" width="150" alt="Alipay">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="skills/author-info/data/resources/wechat-qrcode.jpg" width="150" alt="WeChat">
+</p>
+
+<p align="center">
+  <strong>Alipay</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>WeChat</strong>
+</p>
+
+<p align="center">
+  <a href="https://ifdian.net/a/tycon">Afdian</a>
+</p>
+
+---
+
 ## 🌐 中文版
 
 [README.md](README.md)
