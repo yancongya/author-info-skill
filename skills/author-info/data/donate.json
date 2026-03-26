@@ -1,0 +1,22 @@
+{
+  "alipay": {
+    "enabled": true,
+    "qrcode": "resources/alipay-qrcode.jpg",
+    "url": "https://qr.alipay.com/your-code"
+  },
+  "wechat": {
+    "enabled": true,
+    "qrcode": "resources/wechat-qrcode.jpg",
+    "note": "请添加备注"
+  },
+  "afdian": {
+    "enabled": true,
+    "url": "https://ifdian.net/a/tycon"
+  },
+  "sponsor": {
+    "enabled": false,
+    "url": "https://github.com/sponsors/your-username",
+    "patreon": "https://www.patreon.com/your-username",
+    "ko-fi": "https://ko-fi.com/your-username"
+  }
+}
